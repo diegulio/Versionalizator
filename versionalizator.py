@@ -11,7 +11,7 @@ import sys
 
 
 #%% CONSTANTES
-CLUSTER = 'CLUSTER_PATH'
+CLUSTER = 'CLUSTER_PATH' # Cluster from Atlas Mongodb
 CLIENT = MongoClient(CLUSTER)
 
 
